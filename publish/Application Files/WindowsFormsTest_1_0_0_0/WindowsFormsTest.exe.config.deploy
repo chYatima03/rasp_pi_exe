@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<connectionStrings>
+		<add name="TIMEWEB1ConnectionString" connectionString="Data Source=192.168.17.177;Port=38990;User=root;Password=wdoor;database=bsv5"/>
+		<add name="TSWConnectionString" connectionString="Data Source = 192.168.40.222; Initial Catalog = DB_SIAM_INTER;User ID=sa;Password=Passw0rd; pooling=true;Max Pool Size=32767;MultipleActiveResultSets=True"
+	 providerName="System.Data.SqlClient" />
+		<add name="HRMConnectionString" connectionString="Data Source = 192.168.40.222; Initial Catalog = SIFHRM;User ID=sa;Password=Passw0rd; pooling=true;Max Pool Size=32767;MultipleActiveResultSets=True"
+	 providerName="System.Data.SqlClient" />
+	</connectionStrings>	
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6" />
+    </startup>
+</configuration>
