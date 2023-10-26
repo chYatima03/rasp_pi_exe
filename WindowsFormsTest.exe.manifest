@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsFormsTest.exe" size="1510784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsFormsTest.exe" size="1511296">
       <assemblyIdentity name="WindowsFormsTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rdoV9f4nr87Joshe919WJKi2Sk2Uk4pUsev/HZ++3pY=</dsig:DigestValue>
+        <dsig:DigestValue>bqV30vGY7unXq2k4gzUTMbmY6oWUyCKMZtF/2qu0VTI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
